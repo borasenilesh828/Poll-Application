@@ -48,4 +48,4 @@ Feel free to contribute by submitting a pull request!
 
 # License 📜
 This project is licensed under the MIT License.
-# Copytight by @Nilesh Borase.
+# Copyright By @Nilesh Borase.
